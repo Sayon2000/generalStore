@@ -1,0 +1,10 @@
+button{
+    margin : 5px;
+}
+
+li{
+    display: flex;
+
+    align-items: center;
+}
+
